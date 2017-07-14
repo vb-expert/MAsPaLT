@@ -1,6 +1,8 @@
 # MAsPaLT *.rar | Multiple Archives Password List Test
 -----------------------------------------------------------------------
-The Problem: You have multiple *.rar archives and a Password list that
+The Problem: 
+-----------------------------------------------------------------------
+You have multiple *.rar archives and a Password list that
 may contain a password that will work for at least 1 archive. You need to test
 every password for every archive.
 
