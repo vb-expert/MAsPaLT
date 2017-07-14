@@ -2,7 +2,7 @@
 
 The Problem: 
 -----------------------------------------------------------------------
-You have multiple *.rar archives and a Password List (password profile file) that _may_ contain a password that will work for at least 1 archive (but you do not know for which one). You need to testevery password for every archive.
+You have multiple *.rar archives and a Password List (password profile file) that _may_ contain a password that will work for at least 1 archive (but you do not know for which one). You need to test every password for every archive.
 
 That is - "Many to Many" case.
 
