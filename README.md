@@ -2,16 +2,13 @@
 
 The Problem: 
 -----------------------------------------------------------------------
-You have multiple *.rar archives and a Password List (password profile file) that
-_may_ contain a password that will work for at least 1 archive 
-(but you do not know for which one). You need to test
-every password for every archive.
+You have multiple *.rar archives and a Password List (password profile file) that _may_ contain a password that will work for at least 1 archive (but you do not know for which one). You need to testevery password for every archive.
 
-That is "Many to Many" case.
+That is - "Many to Many" case.
 
 Desc.: 
 -----------------------------------------------------------------------
-MAsPaLt - is a windows bacth script that adresses the problem.
+MAsPaLt - is a windows bacth script that adresses the problem via automation.
 
 Config.:
 -----------------------------------------------------------------------
@@ -27,5 +24,4 @@ test_multi.bat "archives"
 
 Output:
 -----------------------------------------------------------------------
-If a tested password is correct the script will stop and all files
-from the archives will be extracted at that point.
+If a tested password is correct the script will stop and all files from the archives will be extracted at that point.
