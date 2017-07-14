@@ -1,5 +1,4 @@
-# MAsPaLT *.rar
-Windows Cyber Forensics | Multiple Archives Password List Test
+# MAsPaLT *.rar | Multiple Archives Password List Test Windows Cyber Forensics
 -----------------------------------------------------------------------
 The Problem: You have multiple *.rar archives and a Password list that
 may contain a password that will work for at least 1 archive. You need to test
