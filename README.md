@@ -33,5 +33,4 @@ Sample workflow:
 3. Copy all your password protected archives to 'archives' subfolder.
 4. Edit 'passwords.txt' - put all the password you need to check and save.
 5. run 'test2.bat'
-6. Have a coffee\pray your gods :-).
------------------------------------------------------------------------
+6. Have a coffee\pray your gods\test your luck :-).
