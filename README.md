@@ -18,6 +18,6 @@ Syntax usage:
 test_multi.bat "archives" 
 "archives" is the name of the base folder with archives.
 
-If a password is correct the script will stop and all files
+If a tested password is correct the script will stop and all files
 from the archives will be extracted at that point.
 --------------------------------------------------------------
