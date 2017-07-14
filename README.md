@@ -25,3 +25,13 @@ test_multi.bat "archives"
 Output:
 -----------------------------------------------------------------------
 If a tested password is correct the script will stop and all files from the archives will be extracted at that point.
+
+Sample workflow:
+-----------------------------------------------------------------------
+1. Download zip from the Github.
+2. Extract.
+3. Copy all your password protected archives to 'archives' subfolder.
+4. Edit 'passwords.txt' - put all the password you need to check and save.
+5. run 'test2.bat'
+6. Have a coffee\pray your gods :-).
+-----------------------------------------------------------------------
