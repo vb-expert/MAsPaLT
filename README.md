@@ -20,4 +20,3 @@ test_multi.bat "archives"
 
 If a tested password is correct the script will stop and all files
 from the archives will be extracted at that point.
---------------------------------------------------------------
