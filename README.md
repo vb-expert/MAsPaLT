@@ -1,4 +1,4 @@
-# MAsPaLT *.rar | Multiple Archives Password List Test Windows Cyber Forensics
+# MAsPaLT *.rar | Multiple Archives Password List Test
 -----------------------------------------------------------------------
 The Problem: You have multiple *.rar archives and a Password list that
 may contain a password that will work for at least 1 archive. You need to test
@@ -6,11 +6,13 @@ every password for every archive.
 
 That is "Many to Many" case.
 
-Desc.: MAsPaLt - is a windows bacth script that adresses the problem.
+Desc.: 
 -----------------------------------------------------------------------
+MAsPaLt - is a windows bacth script that adresses the problem.
 
-Config.: Edit "test_single.bat" point to the UnRAR.exe location:
+Config.:
 -----------------------------------------------------------------------
+Edit "test_single.bat" point to the UnRAR.exe location:
 set s_unrar=x:\pro\WinRAR\UnRAR.exe
 
 Syntax usage:
