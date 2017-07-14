@@ -24,7 +24,7 @@ test_multi.bat "archives"
 
 Output:
 -----------------------------------------------------------------------
-If a tested password is correct the script will stop and all files from the archives will be extracted at that point.
+If a tested password is correct the script will stop and all the files from the archive have been already extracted at that point.
 
 Sample workflow:
 -----------------------------------------------------------------------
